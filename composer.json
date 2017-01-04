@@ -1,0 +1,17 @@
+{
+   "name": "fjbender/payone-oxid-6",
+   "description": "This is a first try to put payone into oxid by composer.",
+   "type": "oxideshop-module",
+   "keywords": ["oxid", "modules", "eShop"],
+   "homepage": "https://github.com/fjbender",
+   "license": [
+       "GPL-3.0",
+       "proprietary"
+   ],
+   "extra": {
+     "oxideshop": {
+       "target-directory": "fcPayOne"
+     }
+   }
+}
+
